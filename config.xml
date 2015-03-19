@@ -5,13 +5,13 @@
         id          = "edu.iupui.n300.TicTacToe"
         version     = "1.0.0" >
 
-    <name>Tic Tac Toe</name>
+    <name>Three In a Row </name>
 
     <description>
         A tic tac toe game
     </description>
 
-    <author href="https://github.com/ProfessorKevinForbes/TicTacToe4" email="professorkevinforbes@gmail.com">
+    <author href="https://github.com/devg065/ThreeInARow" email="devg065+github@gmail.com">
         Kevin Forbes
     </author>
 
